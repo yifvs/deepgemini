@@ -61,6 +61,9 @@ Gemini API客户端，负责：
 ## 安装步骤
 
 1. 克隆此仓库或下载源代码
+   ```
+   git clone https://github.com/yifvs/deepgemini.git
+   ```
 
 2. 安装依赖包
    ```
