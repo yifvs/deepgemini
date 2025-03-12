@@ -79,9 +79,8 @@ streamlit run app.py
 
 1. 在应用侧边栏的「API设置」部分输入你的API密钥：
    - DeepSeek API密钥
-   - DeepSeek API地址（默认为https://api.deepseek.com/v1/chat/completions）
+   - DeepSeek API地址（默认为https://api.deepseek.com/v1/chat/completions，也支持硅基流动）
    - Gemini API密钥
-   - 点击「保存设置」按钮保存你的设置
 
 2. 在主界面的输入框中输入你的问题
 
