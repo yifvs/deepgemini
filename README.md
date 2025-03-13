@@ -69,6 +69,10 @@ Gemini API客户端，负责：
    ```
    pip install -r requirements.txt
    ```
+3、在根目录创建一个'.env'文件，并在文件中添加代理设置
+   ```
+   http://host:port或socks5://host:port
+   ```
 
 ## 运行应用
 
